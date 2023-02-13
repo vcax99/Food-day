@@ -1,0 +1,256 @@
+.navigate {
+  background-color: black;
+  color: azure;
+  padding-top: 10px;
+  background-attachment: fixed;
+}
+address {
+  padding-top: 4px;
+}
+.logo_div {
+  height: 35px;
+  width: 35px;
+  background-color: #fefefebc;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+.div_sec_sp {
+  margin-left: -120px;
+}
+.logo {
+  height: 25px;
+  width: 25px;
+  margin: 5px 5px 3px -7px;
+}
+.cook_logo {
+  height: 25px;
+  width: 25px;
+  
+}
+.row_nav {
+  display: flex;
+  flex-wrap: wrap;
+}
+.day {
+  color: red;
+}
+.body_nav {
+  padding: 25px;
+  padding-left: 40px;
+  margin-top: 50px;
+}
+.fbanner {
+  background-image: url("img/food.avif");
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-bottom: 50px;
+}
+.banner2 {
+  margin-left: -15px;
+  width: 90%;
+  height: 80%;
+}
+.banner2_div {
+  padding-top: 61px;
+}
+.banner3_div {
+  padding-left: 70px;
+  padding-top: 61px;
+}
+.banner2_txt {
+  font-size: 55px;
+  color: rgb(234, 49, 49);
+}
+.banner2_line hr {
+  top: 20px;
+  border: none;
+  width: 18%;
+  height: 6px;
+  margin-bottom: 40px;
+  background-color: rgb(0, 0, 0);
+  opacity: inherit;
+}
+.txt {
+  font-size: 28px;
+}
+.banner3 {
+  
+  width: 90%;
+  height: 80%;
+  margin-left: 85px;
+}
+.txt_mrg_banner {
+  padding-top: 135px;
+}
+.txt_sp_banner {
+  text-align: center;
+}
+.but_white {
+  background-color: aliceblue;
+  border: none;
+  color: rgb(234, 49, 49);
+  border-radius: 35px;
+  padding: 10px 35px 10px 35px;
+
+}
+.but_red {
+  color: aliceblue;
+  border: none;
+  background-color: rgb(234, 49, 49);
+  border-radius: 35px;
+  padding: 10px 35px 10px 35px;
+  margin-top: 20px;
+}
+.fst_btn_sp {
+  margin-left: 111px;
+  margin-top: 50px;
+}
+body {
+  background-color: rgb(227, 225, 225);
+}
+.txt_banner_size {
+  font-size: 94px;
+}
+.banner4 {
+  background-image: url("img/restraunt.avif");
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-bottom: 50px;
+}
+.card_txt_size {
+  font-size: 21px;
+}
+.card_img_size {
+  height: 150px;
+  width: 150px;
+  margin: 0 auto;
+  
+}
+.banner3_line hr {
+  top: 20px;
+  border: none;
+  width: 10%;
+  height: 6px;
+  margin: 0 auto;
+  background-color: rgb(251, 251, 251);
+  opacity: inherit;
+}
+.banner4_heading{
+text-align: center;
+margin-bottom: 40px;
+
+
+}
+.banner4_header_txt{
+  color: rgb(157, 34, 34);
+  font-size: 60px;
+}
+.hrline{
+  top: 20px;
+  border: none;
+  width: 10%;
+  height: 6px;
+  margin: 0 auto;
+  background-color: rgb(7, 7, 7);
+  opacity: inherit;
+}
+.banner4_img{
+  margin-top: 15px;
+  width: 100%;
+  height: 350px;
+  
+}
+.banner4_txt{
+text-align: left;
+
+}
+.banner_txt_sp{
+  padding-top: 20px;
+}
+.cook_img_size{
+  height: 450px;
+  width:100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.chef_pg_banner{
+  background-image:url('img/cook_page.avif');
+  height:500px ;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.banner4_heading h1{
+  color: aliceblue;
+  font-size:63px;
+  padding-top: 58px;
+}
+.family_card{
+  border: 1px solid rgb(159, 159, 159);
+  border-radius: 25px;
+  
+}
+.table_img{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.dollar{
+  font-size:82px;
+  color:grey;
+  position: relative;
+}
+.rs{
+  color: black;
+  font-size:141px;
+}
+.blog_img1{
+  width: 100%;
+  height: 100%;
+  margin-left: -10px;
+}
+.blog_img2{
+  width: 100%;
+  height: 100%;
+  margin-left:10px;
+  
+ 
+}
+.rd_more{
+  color: red;
+  padding-top: 55px;
+}
+.cont_border{
+  border: 1px solid rgb(133, 133, 133);
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+.footer_bg{
+  background-color: black;
+  color: aliceblue;
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+.footer_foo{
+  color: white;
+}
+.footer_links{
+  margin-left: -15px;
+}
+
+ .zoom:hover{
+  transform: scale(1.25);
+  color: red;
+ }
+ .zoom2:hover{
+  transform: scale(1.25);
+  
+ }
+ .zoom3:hover{
+  transform: scale(1.05);
+ }
